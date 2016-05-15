@@ -1,7 +1,0 @@
-https://www.digitalocean.com/community/tutorials/how-to-install-and-setup-postfix-on-ubuntu-14-04
-
--per far rete lan su virtualbox settare in rete della macchina virtuale
-Scheda con bridge in modalità promiscua permetti tutto, le due macchine avranno
-indirizzi diversi della stessa rete settati dal dhcp
-
--per myhostname -> vedere fqdn con: hostname --fqdn
